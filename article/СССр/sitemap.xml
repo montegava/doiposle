@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://doiposle.net/</loc>
+<lastmod>2011-08-18</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://doiposle.net/about.html</loc>
+<lastmod>2011-08-18</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://doiposle.net/zvezdy_do_i_posle.html</loc>
+<lastmod>2011-08-18</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+
+
+</urlset>

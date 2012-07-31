@@ -1,0 +1,31 @@
+User-agent: Yandex
+Disallow: /cgi-bin/
+Disallow: /avitolister.ru/
+Disallow: /foto_posle_files/
+Disallow: /ru/
+Disallow: /montegava.ru/
+Host: doiposle.net
+
+User-agent: Googlebot
+Disallow: /cgi-bin/
+Disallow: /avitolister.ru/
+Disallow: /foto_posle_files/
+Disallow: /ru/
+Disallow: /montegava.ru/
+
+User-agent: StackRambler
+Disallow: /cgi-bin/
+Disallow: /avitolister.ru/
+Disallow: /foto_posle_files/
+Disallow: /ru/
+Disallow: /montegava.ru/
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /avitolister.ru/
+Disallow: /foto_posle_files/
+Disallow: /ru/
+Disallow: /montegava.ru/
+
+Sitemap: http://doiposle.net/sitemap.xml
+
